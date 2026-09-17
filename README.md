@@ -12,6 +12,7 @@ This project detects human posture using a webcam and helps identify whether the
 * Real-time posture detection
 * Detects incorrect posture
 * Simple and easy to use
+  
 
 
 
@@ -20,6 +21,7 @@ This project detects human posture using a webcam and helps identify whether the
 * Python
 * OpenCV
 * MediaPipe
+* hugging face
 
 
 
@@ -31,8 +33,7 @@ This project detects human posture using a webcam and helps identify whether the
 2. Run the program:
    python main.py
 
-
-##  Project Files
+## All the  Project Files
 
 * main.py
 * requirements.txt
